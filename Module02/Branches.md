@@ -1,6 +1,6 @@
 ## Comprehensive Guide: Git Branches, Lifecycle & Management
 
-### 1. What is a Git Branch?
+### 1. What is a Git Branch ?
 
 A **branch** in Git is a lightweight, moveable pointer (reference) that targets a specific commit object—typically the most recent commit on that path, known as the **tip** of the branch.
 
