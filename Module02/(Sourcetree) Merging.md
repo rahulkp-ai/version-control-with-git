@@ -1,7 +1,3 @@
-Here is a clear summary and key takeaways from the transcript on **Git Merging**.
-
----
-
 ## 1. Overview of Merging
 
 - **Purpose:** Merging combines the work from independent topic branches (e.g., `featureX`) into a longer-running base branch (e.g., `master` or `main`).
