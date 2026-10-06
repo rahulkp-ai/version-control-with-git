@@ -38,11 +38,7 @@
 When a merge conflict happens, Git flags the file in your working tree and adds inline markup:
 
 ```text
-<<<<<<< HEAD
 feature 3       <-- "Ours" (Changes on current checked-out branch)
-=======
-feature 2       <-- "Theirs" (Changes from incoming branch)
->>>>>>> feature2
 ```
 
 - Lines outside the markers are cleanly merged by Git automatically.
